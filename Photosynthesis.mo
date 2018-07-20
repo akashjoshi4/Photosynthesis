@@ -1,4 +1,4 @@
-within PhotosynthesisModeling;
+within Photosynthesis;
 
 model Photosynthesis
   extends BioChem.Compartments.ConstantCompartment(V(start = 1.0), mainCompartment = true);
