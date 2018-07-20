@@ -1,3 +1,4 @@
+within Photosynthesis;
 model QuadBi
   extends BioChem.Interfaces.Reactions.Qbr;
 equation
