@@ -1,3 +1,4 @@
+within Photosynthesis;
 model QuadTri
   extends BioChem.Interfaces.Reactions.Qtr;
 equation
